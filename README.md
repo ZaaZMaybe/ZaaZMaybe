@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ZaaZMaybe
-- 👀 I’m interested in muitas coisas sobre programação
-- 🌱 I’m currently learning HTML5 e CSS3
+- 👋 Oie, eu sou Gabriel Pedro
+- 👀 Estou interessado em muitas coisas sobre programação
+- 🌱 Atualmente estou aprendendo HTML
 
 
 
